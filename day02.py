@@ -1,6 +1,6 @@
-from pathlib import Path
 from functools import reduce
 from operator import mul
+from pathlib import Path
 
 
 def parse_reveals(raw_reveals):
