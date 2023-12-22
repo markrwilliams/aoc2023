@@ -1,10 +1,10 @@
+from collections import Counter
 from dataclasses import dataclass, field, replace
 from enum import Enum
-from collections import Counter
 from functools import total_ordering
-import pytest
 from pathlib import Path
 
+import pytest
 
 CARD_RANKS = '23456789TJQKA'
 JOKER_CARD_RANKS = 'J23456789TQKA'

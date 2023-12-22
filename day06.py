@@ -1,8 +1,7 @@
 from dataclasses import dataclass
 from functools import reduce
-from pathlib import Path
 from operator import mul
-
+from pathlib import Path
 
 EXAMPLE = """
 Time:      7  15   30

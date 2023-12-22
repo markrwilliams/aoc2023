@@ -1,7 +1,7 @@
 import itertools
 from pathlib import Path
-import pytest
 
+import pytest
 
 EXAMPLE = """
 0 3 6 9 12 15
